@@ -1,11 +1,5 @@
 #!/usr/bin/python
-"""
-Created on Tue Dec 31 17:40:23 2019
 
-Universal Reddit Scraper 3.0 - Reddit scraper using the Reddit API (PRAW)
-
-@author: Joseph Lai
-"""
 import praw
 
 ### Import CLI parser, global variables, scrapers and titles
