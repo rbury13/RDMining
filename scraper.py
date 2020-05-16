@@ -24,11 +24,11 @@ options = global_vars.options
 s_t = global_vars.s_t
 
 ### Reddit API Credentials
-c_id = 'lpdUNI1fEUgNvw'                # Personal Use Script (14 char)
-c_secret = 'sFheqHS3VDZlSC-BC4wNoXc5tP0'           # Secret key (27 char)
-u_a = 'Scraper'               # App name
-usrnm = 'rbsosa'      # Reddit username
-passwd = 'Option6472!'     # Reddit login password
+c_id = ''                # Personal Use Script (14 char)
+c_secret = ''           # Secret key (27 char)
+u_a = ''               # App name
+usrnm = ''      # Reddit username
+passwd = ''     # Reddit login password
 
 ### Putting it all together
 def main():
